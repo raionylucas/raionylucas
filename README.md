@@ -1,6 +1,6 @@
 # Olá, sou Lucas Raiony 👋🏾
 
-Sou um desenvolvedor PHP em busca de novas oportunidades e desafios.
+Sou um desenvolvedor como foco em aplicações para web utilizando a linguagem PHP. 
 
 
 ## Principais linguagens e ferramentas
