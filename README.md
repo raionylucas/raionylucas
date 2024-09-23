@@ -14,7 +14,7 @@ Sou um desenvolvedor como foco em aplicações para web utilizando a linguagem P
 </div>
 <br>
 
-## Conhecimentos básicos
+## Conhecimentos complementares
 <div style="display: inline_block">
   <img align="center" alt="Rafa-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
   <img align="center" alt="Rafa-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
