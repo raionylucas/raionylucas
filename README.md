@@ -1,6 +1,6 @@
 # Olá, sou Lucas Raiony 👋🏾
 
-Sou um desenvolvedor como foco em aplicações para web.
+Sou um desenvolvedor com foco em aplicações para web.
 
 
 ## Onde me encontrar 
